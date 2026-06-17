@@ -1,0 +1,29 @@
+{
+  "fixedStars": [
+    {
+      "name": "Sirius",
+      "vietnamese": "Thiên Lang",
+      "longitudeApprox": 104.1,
+      "theme": "danh vọng, sức sống, khả năng bảo hộ"
+    },
+    {
+      "name": "Regulus",
+      "vietnamese": "Hiên Viên Thập Tứ",
+      "longitudeApprox": 150.1,
+      "theme": "khí chất lãnh đạo, lòng chính trực, danh dự"
+    },
+    {
+      "name": "Spica",
+      "vietnamese": "Giác Tú",
+      "longitudeApprox": 204.2,
+      "theme": "tài năng, học thuật, sự nâng đỡ tinh tế"
+    },
+    {
+      "name": "Aldebaran",
+      "vietnamese": "Tất Tú Ngũ",
+      "longitudeApprox": 69.8,
+      "theme": "bản lĩnh, quyết đoán, thử thách về đạo đức"
+    }
+  ],
+  "note": "Bảng sao cố định tham khảo để mở rộng bản đồ sao offline. Kinh độ xấp xỉ không dùng thay ephemeris chuyên nghiệp."
+}

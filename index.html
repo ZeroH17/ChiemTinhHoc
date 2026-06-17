@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Thiên Mệnh Tinh Đồ</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;600;700;800&family=Noto+Sans:wght@400;600;700;800&display=swap&subset=vietnamese" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <section class="landing-page" aria-label="Màn giới thiệu Thiên Mệnh Tinh Đồ">
+      <div class="landing-stars stars-a"></div>
+      <div class="landing-stars stars-b"></div>
+      <div class="landing-stars stars-c"></div>
+      <div class="moon-stage">
+        <div id="landing-moon" class="landing-moon phase-full" aria-label="Mặt trăng đang đổi pha"></div>
+        <div class="moon-ring ring-one"></div>
+        <div class="moon-ring ring-two"></div>
+        <span class="orbit-star star-one">✦</span>
+        <span class="orbit-star star-two">✧</span>
+        <span class="orbit-star star-three">✶</span>
+      </div>
+      <div class="landing-copy">
+        <p>Chiêm tinh · Tử vi · Tinh đồ</p>
+        <h1>Thiên Mệnh Tinh Đồ</h1>
+        <a class="landing-action" href="#oracle-app">Khám phá thoi😛</a>
+      </div>
+    </section>
+
+    <main id="oracle-app" class="app-shell">
+      <section class="oracle-panel">
+        <div class="brand-mark">✦</div>
+        <h1>Thiên Mệnh Tinh Đồ</h1>
+        <p class="intro">
+          Lập lá số tử vi và bản đồ sao tham khảo ngay trên trình duyệt, không lưu dữ liệu cá nhân.
+        </p>
+
+        <form id="birth-form" class="birth-form" autocomplete="off">
+          <label>
+            <span>Chọn kiểu xem</span>
+            <select id="chart-type" name="chartType">
+              <option value="western">Bản đồ sao</option>
+              <option value="tuvi">Tử vi</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Họ tên</span>
+            <input id="full-name" name="fullName" type="text" placeholder="Ví dụ: Nguyễn An" required />
+          </label>
+
+          <div class="field-grid">
+            <label>
+              <span>Ngày sinh</span>
+              <input id="birth-date" name="birthDate" type="date" required />
+            </label>
+            <label>
+              <span>Giới tính</span>
+              <select id="gender" name="gender">
+                <option value="neutral">Không nêu</option>
+                <option value="female">Nữ</option>
+                <option value="male">Nam</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="field-grid">
+            <label>
+              <span>Giờ hoàng đạo</span>
+              <select id="birth-hour" name="birthHour">
+                <option value="">Không rõ giờ sinh</option>
+                <option value="ty">Giờ Tý (23:00 - 01:00)</option>
+                <option value="suu">Giờ Sửu (01:00 - 03:00)</option>
+                <option value="dan">Giờ Dần (03:00 - 05:00)</option>
+                <option value="mao">Giờ Mão (05:00 - 07:00)</option>
+                <option value="thin">Giờ Thìn (07:00 - 09:00)</option>
+                <option value="ty2">Giờ Tỵ (09:00 - 11:00)</option>
+                <option value="ngo">Giờ Ngọ (11:00 - 13:00)</option>
+                <option value="mui">Giờ Mùi (13:00 - 15:00)</option>
+                <option value="than">Giờ Thân (15:00 - 17:00)</option>
+                <option value="dau">Giờ Dậu (17:00 - 19:00)</option>
+                <option value="tuat">Giờ Tuất (19:00 - 21:00)</option>
+                <option value="hoi">Giờ Hợi (21:00 - 23:00)</option>
+              </select>
+            </label>
+            <label>
+              <span>Nơi sinh</span>
+              <input id="birth-place" name="birthPlace" type="text" placeholder="Tỉnh/thành phố, tùy chọn" />
+            </label>
+          </div>
+
+          <label>
+            <span>Trọng tâm luận giải</span>
+            <select id="focus" name="focus">
+              <option value="overview">Tổng quan vận mệnh</option>
+              <option value="career">Sự nghiệp và tài lộc</option>
+              <option value="love">Tình cảm và kết nối</option>
+              <option value="inner">Nội tâm và phát triển bản thân</option>
+            </select>
+          </label>
+
+          <button type="submit">Lập lá số</button>
+        </form>
+      </section>
+
+      <section id="result" class="result-panel" aria-live="polite">
+        <div class="empty-state">
+          <div class="moon">☽</div>
+          <h2>Lá số sẽ hiện ở đây</h2>
+          <p>Nhập ngày sinh để mở vòng tinh bàn, Can Chi và phần luận giải.</p>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>

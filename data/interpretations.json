@@ -1,0 +1,242 @@
+{
+  "sunSigns": {
+    "Bạch Dương": {
+      "element": "Lửa",
+      "ruler": "Sao Hỏa",
+      "traits": ["tiên phong", "thẳng thắn", "nhiệt huyết", "ưa thử thách"],
+      "overview": "Bạn bước vào đời bằng bản năng khai mở. Khi có mục tiêu rõ, năng lượng bùng lên rất nhanh, nhưng cần học cách giữ nhịp để không đốt cạn mình.",
+      "career": "Hợp môi trường cần quyết đoán, dẫn dắt, bán hàng, thể thao, khởi nghiệp hoặc vai trò mở đường.",
+      "love": "Tình cảm đến qua sự chủ động và cảm giác được chinh phục. Bài học là lắng nghe trước khi phản ứng.",
+      "inner": "Sức mạnh nằm ở lòng can đảm; sự trưởng thành đến khi biết phân biệt trực giác với nóng vội.",
+      "colors": ["đỏ thẫm", "vàng kim"], "numbers": [1, 9]
+    },
+    "Kim Ngưu": {
+      "element": "Đất", "ruler": "Sao Kim",
+      "traits": ["bền bỉ", "thực tế", "cảm quan tốt", "kiên định"],
+      "overview": "Bạn cần sự ổn định để nở rộ. Một khi đã tin vào con đường, bạn có khả năng xây dựng thành quả chậm mà chắc.",
+      "career": "Hợp tài chính, thiết kế, ẩm thực, tài sản, nông nghiệp, quản trị vận hành hoặc các nghề cần gu thẩm mỹ.",
+      "love": "Yêu bằng sự chăm sóc và hiện diện. Cẩn trọng với khuynh hướng cố chấp khi cảm thấy thiếu an toàn.",
+      "inner": "Thân thể là chiếc la bàn mạnh nhất; khi sống chậm lại, bạn nghe được điều mình thật sự cần.",
+      "colors": ["xanh rêu", "hồng đất"], "numbers": [2, 6]
+    },
+    "Song Tử": {
+      "element": "Khí", "ruler": "Sao Thủy",
+      "traits": ["linh hoạt", "tò mò", "giao tiếp tốt", "đa nhiệm"],
+      "overview": "Bạn học đời qua kết nối và thông tin. Tâm trí nhanh là món quà, miễn là nó được neo bằng ưu tiên rõ ràng.",
+      "career": "Hợp truyền thông, viết lách, giáo dục, marketing, công nghệ, thương mại hoặc công việc cần xử lý nhiều luồng tin.",
+      "love": "Cần một mối quan hệ có đối thoại, dí dỏm và không bó buộc. Sự nhất quán là chìa khóa nuôi tin cậy.",
+      "inner": "Trí tuệ sáng lên khi bạn biến sự phân tán thành khả năng liên kết những điều tưởng rời rạc.",
+      "colors": ["vàng nhạt", "xanh bạc"], "numbers": [3, 5]
+    },
+    "Cự Giải": {
+      "element": "Nước", "ruler": "Mặt Trăng",
+      "traits": ["nhạy cảm", "bảo vệ", "giàu ký ức", "nuôi dưỡng"],
+      "overview": "Bạn cảm nhận không gian và con người rất sâu. Khi an toàn cảm xúc được tôn trọng, bạn trở thành điểm tựa dịu dàng mà mạnh mẽ.",
+      "career": "Hợp chăm sóc, giáo dục, trị liệu, bất động sản, ẩm thực, gia đình, lịch sử hoặc quản trị cộng đồng.",
+      "love": "Yêu bằng lòng trung thành và ký ức chung. Cần tránh thử lòng người khác khi bất an.",
+      "inner": "Bài học lớn là dựng mái nhà bên trong mình trước khi che chở cho cả thế giới.",
+      "colors": ["bạc", "xanh biển"], "numbers": [2, 7]
+    },
+    "Sư Tử": {
+      "element": "Lửa", "ruler": "Mặt Trời",
+      "traits": ["hào phóng", "sáng tạo", "tự tin", "trung thành"],
+      "overview": "Bạn tỏa sáng khi được sống thật với trái tim. Năng lực lãnh đạo đến từ sự ấm áp, không chỉ từ sân khấu.",
+      "career": "Hợp sáng tạo, quản lý, giải trí, giáo dục, thương hiệu cá nhân hoặc vai trò truyền cảm hứng.",
+      "love": "Tình yêu cần sự tự hào và tôn trọng lẫn nhau. Hãy để người thương cũng có vùng sáng riêng.",
+      "inner": "Khi cái tôi phục vụ điều đẹp đẽ hơn chính nó, bạn có sức hút rất lớn.",
+      "colors": ["vàng đồng", "cam cháy"], "numbers": [1, 8]
+    },
+    "Xử Nữ": {
+      "element": "Đất", "ruler": "Sao Thủy",
+      "traits": ["tinh tế", "phân tích", "chăm chỉ", "thích cải thiện"],
+      "overview": "Bạn nhìn thấy chi tiết mà người khác bỏ qua. Món quà của bạn là biến hỗn độn thành trật tự hữu ích.",
+      "career": "Hợp y tế, phân tích dữ liệu, biên tập, nghiên cứu, vận hành, chất lượng, kỹ thuật hoặc dịch vụ chuyên sâu.",
+      "love": "Yêu qua hành động thiết thực. Đừng để tiêu chuẩn cao làm mờ những cử chỉ chân thành.",
+      "inner": "Sự hoàn hảo không phải đích đến; sự lành mạnh và hữu dụng mới là phép màu của bạn.",
+      "colors": ["xanh olive", "trắng ngà"], "numbers": [5, 6]
+    },
+    "Thiên Bình": {
+      "element": "Khí", "ruler": "Sao Kim",
+      "traits": ["công bằng", "duyên dáng", "ngoại giao", "thẩm mỹ"],
+      "overview": "Bạn tìm sự cân bằng trong quan hệ và cái đẹp. Khi dám chọn thay vì chiều lòng, năng lực hòa giải của bạn rất sáng.",
+      "career": "Hợp luật, ngoại giao, thiết kế, tư vấn, nghệ thuật, nhân sự, quan hệ đối tác hoặc thương lượng.",
+      "love": "Cần sự tinh tế, tôn trọng và đối thoại. Bài học là không đánh mất mình để giữ hòa khí.",
+      "inner": "Sự hài hòa thật bắt đầu từ một lựa chọn thật lòng.",
+      "colors": ["hồng phấn", "xanh thiên thanh"], "numbers": [6, 7]
+    },
+    "Bọ Cạp": {
+      "element": "Nước", "ruler": "Sao Diêm Vương",
+      "traits": ["sâu sắc", "mạnh mẽ", "trực giác", "biến đổi"],
+      "overview": "Bạn đi qua đời bằng khả năng nhìn dưới bề mặt. Nơi người khác né tránh, bạn có thể tìm thấy sức mạnh tái sinh.",
+      "career": "Hợp nghiên cứu, tài chính, điều tra, tâm lý, y khoa, bảo mật, khủng hoảng hoặc chiến lược.",
+      "love": "Tình yêu cần chiều sâu và lòng trung thành. Cần học cách tin tưởng thay vì kiểm soát.",
+      "inner": "Khi buông thứ đã cũ, bạn không mất mình; bạn trở lại sắc nét hơn.",
+      "colors": ["đỏ rượu", "đen ánh tím"], "numbers": [8, 9]
+    },
+    "Nhân Mã": {
+      "element": "Lửa", "ruler": "Sao Mộc",
+      "traits": ["tự do", "lạc quan", "ham học", "thẳng thắn"],
+      "overview": "Bạn lớn lên nhờ chân trời rộng. Niềm tin, tri thức và trải nghiệm là ngọn lửa dẫn đường.",
+      "career": "Hợp du lịch, giáo dục, xuất bản, luật, ngoại ngữ, kinh doanh quốc tế hoặc định hướng chiến lược.",
+      "love": "Cần không gian và sự thật. Sự cam kết bền khi cả hai cùng phát triển.",
+      "inner": "Tự do đẹp nhất khi đi cùng trách nhiệm với lời mình nói.",
+      "colors": ["tím hoàng gia", "xanh cobalt"], "numbers": [3, 9]
+    },
+    "Ma Kết": {
+      "element": "Đất", "ruler": "Sao Thổ",
+      "traits": ["kỷ luật", "tham vọng", "bền chí", "thực tế"],
+      "overview": "Bạn sinh ra để xây điều có tuổi thọ. Thành tựu đến qua thời gian, cấu trúc và khả năng chịu trách nhiệm.",
+      "career": "Hợp quản trị, tài chính, kỹ thuật, kiến trúc, nhà nước, chiến lược, vận hành hoặc vai trò cấp cao.",
+      "love": "Yêu nghiêm túc và kín đáo. Hãy cho phép sự mềm mại được nhìn thấy.",
+      "inner": "Không phải gánh mọi thứ một mình mới là mạnh; biết nhận nâng đỡ cũng là trưởng thành.",
+      "colors": ["xám đá", "xanh thông"], "numbers": [4, 8]
+    },
+    "Bảo Bình": {
+      "element": "Khí", "ruler": "Sao Thiên Vương",
+      "traits": ["độc lập", "cấp tiến", "nhân văn", "khác biệt"],
+      "overview": "Bạn nhìn thấy mô hình tương lai trước khi số đông sẵn sàng. Sự khác biệt là tài nguyên, miễn là vẫn còn kết nối với con người thật.",
+      "career": "Hợp công nghệ, cộng đồng, khoa học, cải cách, sản phẩm số, mạng lưới hoặc dự án xã hội.",
+      "love": "Cần tình bạn, tự do và tôn trọng trí tuệ. Tránh dùng khoảng cách để né cảm xúc.",
+      "inner": "Tầm nhìn lớn nhất vẫn cần một trái tim có mặt.",
+      "colors": ["xanh điện", "bạc"], "numbers": [4, 11]
+    },
+    "Song Ngư": {
+      "element": "Nước", "ruler": "Sao Hải Vương",
+      "traits": ["mộng mơ", "từ bi", "sáng tạo", "thấu cảm"],
+      "overview": "Bạn cảm được những tầng tinh tế của đời sống. Khi có ranh giới rõ, trực giác và lòng trắc ẩn trở thành sức mạnh.",
+      "career": "Hợp nghệ thuật, chữa lành, âm nhạc, phim ảnh, tâm linh, từ thiện, chăm sóc hoặc công việc hậu trường sáng tạo.",
+      "love": "Yêu bằng sự hòa tan và bao dung. Cần phân biệt lòng thương với việc tự hy sinh quá mức.",
+      "inner": "Giấc mơ cần hình hài; hãy cho cảm hứng một lịch trình nhỏ mỗi ngày.",
+      "colors": ["xanh ngọc", "tím khói"], "numbers": [7, 12]
+    }
+  },
+  "elements": {
+    "Kim": "Kim tượng trưng cho kỷ luật, chuẩn mực và khả năng chắt lọc. Vượng Kim giúp tư duy sắc bén; thiếu cân bằng dễ thành cứng nhắc.",
+    "Mộc": "Mộc tượng trưng cho sinh trưởng, học hỏi và lòng nhân. Vượng Mộc giúp mở rộng; thiếu cân bằng dễ ôm đồm.",
+    "Thủy": "Thủy tượng trưng cho trí tuệ, thích nghi và giao cảm. Vượng Thủy giúp linh hoạt; thiếu cân bằng dễ do dự.",
+    "Hỏa": "Hỏa tượng trưng cho nhiệt huyết, danh tiếng và sức sống. Vượng Hỏa giúp bứt phá; thiếu cân bằng dễ nóng nảy.",
+    "Thổ": "Thổ tượng trưng cho nền tảng, trách nhiệm và tích lũy. Vượng Thổ giúp ổn định; thiếu cân bằng dễ trì trệ."
+  },
+  "elementRemedies": {
+    "Kim": "Bồi Kim bằng kỷ luật nhẹ, không gian gọn gàng, quyết định rõ ràng, luyện kỹ năng phân tích và giữ lời hứa nhỏ mỗi ngày.",
+    "Mộc": "Bồi Mộc bằng học hỏi đều đặn, vận động ngoài trời, chăm cây, lập kế hoạch tăng trưởng và nuôi dưỡng các mối quan hệ lành mạnh.",
+    "Thủy": "Bồi Thủy bằng nghỉ ngơi sâu, viết nhật ký, học lắng nghe, tiếp xúc nước, thiền thở và cho trực giác có thời gian lên tiếng.",
+    "Hỏa": "Bồi Hỏa bằng ánh sáng, vận động làm nóng cơ thể, sáng tạo, trình bày ý tưởng và chọn một mục tiêu khiến bạn thấy sống động.",
+    "Thổ": "Bồi Thổ bằng nếp sinh hoạt ổn định, ăn ngủ đúng giờ, quản lý tài chính, hoàn tất việc dang dở và xây nền tảng trước khi mở rộng."
+  },
+  "westernPlanets": {
+    "sun": "Mặt Trời mô tả bản sắc cốt lõi, cách bạn muốn tỏa sáng và điều khiến bạn cảm thấy mình đang sống đúng.",
+    "moon": "Mặt Trăng mô tả nhu cầu cảm xúc, phản ứng bản năng, ký ức và cách bạn tìm cảm giác an toàn.",
+    "mercury": "Sao Thủy mô tả tư duy, cách học, cách nói chuyện và cách bạn xử lý thông tin.",
+    "venus": "Sao Kim mô tả gu thẩm mỹ, cách yêu, cách thu hút và điều bạn xem là dễ chịu.",
+    "mars": "Sao Hỏa mô tả động lực hành động, cách giận, cách tranh đấu và kiểu năng lượng bạn dùng để đạt mục tiêu.",
+    "jupiter": "Sao Mộc mô tả niềm tin, sự mở rộng, may mắn và vùng đời sống khiến bạn muốn phát triển.",
+    "saturn": "Sao Thổ mô tả trách nhiệm, giới hạn, bài học trưởng thành và nơi bạn cần xây nền tảng vững.",
+    "uranus": "Thiên Vương mô tả sự độc lập, khác biệt, đổi mới và cách bạn phá khuôn mẫu cũ.",
+    "neptune": "Hải Vương mô tả trực giác, lý tưởng, giấc mơ, sự mơ hồ và nhu cầu kết nối tinh thần.",
+    "pluto": "Diêm Vương mô tả chiều sâu, biến đổi, kiểm soát, tái sinh và những vùng tâm lý mạnh."
+  },
+  "westernSignTraits": {
+    "Bạch Dương": "Cung này khiến năng lượng biểu hiện nhanh, trực diện, thích chủ động và không muốn bị kìm lại quá lâu.",
+    "Kim Ngưu": "Cung này khiến năng lượng biểu hiện chậm mà chắc, coi trọng cảm giác an toàn, giá trị thực tế và sự bền vững.",
+    "Song Tử": "Cung này khiến năng lượng biểu hiện linh hoạt, tò mò, thích trao đổi, học nhanh và dễ bị kích thích bởi thông tin mới.",
+    "Cự Giải": "Cung này khiến năng lượng biểu hiện qua cảm xúc, ký ức, sự bảo vệ và nhu cầu được thuộc về một nơi an toàn.",
+    "Sư Tử": "Cung này khiến năng lượng biểu hiện ấm, rõ, thích sáng tạo, thích được công nhận và có nhu cầu sống bằng trái tim.",
+    "Xử Nữ": "Cung này khiến năng lượng biểu hiện qua phân tích, chỉnh sửa, phục vụ, tối ưu và mong muốn làm mọi thứ đúng hơn.",
+    "Thiên Bình": "Cung này khiến năng lượng biểu hiện qua quan hệ, thẩm mỹ, sự công bằng, ngoại giao và nhu cầu cân bằng.",
+    "Bọ Cạp": "Cung này khiến năng lượng biểu hiện sâu, mạnh, kín đáo, có xu hướng quan sát động cơ ẩn và cần sự thật cảm xúc.",
+    "Nhân Mã": "Cung này khiến năng lượng biểu hiện rộng mở, thích học hỏi, tự do, trải nghiệm và tìm ý nghĩa lớn hơn.",
+    "Ma Kết": "Cung này khiến năng lượng biểu hiện nghiêm túc, có cấu trúc, hướng thành tựu và cần thời gian để tin tưởng.",
+    "Bảo Bình": "Cung này khiến năng lượng biểu hiện độc lập, khác biệt, thiên về ý tưởng, cộng đồng và những hướng đi mới.",
+    "Song Ngư": "Cung này khiến năng lượng biểu hiện mềm, trực giác, mộng mơ, dễ thấu cảm và cần ranh giới cảm xúc rõ."
+  },
+  "tuviFocus": {
+    "overview": "Tổng quan vận mệnh cần đọc Cung Mệnh làm trục chính, sau đó nhìn Phúc Đức, Quan Lộc, Tài Bạch và Thiên Di để biết nền phúc, hướng phát triển, tài lực và môi trường bên ngoài. Điểm tốt không có nghĩa mọi thứ tự đến; nó cho biết cung đó có lực nâng. Điểm thấp không phải định mệnh xấu tuyệt đối; nó cho biết vùng đời sống cần chậm lại, chọn kỹ và bồi dưỡng.",
+    "career": "Sự nghiệp cần xem Quan Lộc, Tài Bạch, Thiên Di và Nô Bộc. Quan Lộc nói về nghề nghiệp và danh vị; Tài Bạch nói cách tạo tiền; Thiên Di nói cơ hội bên ngoài; Nô Bộc nói đồng đội, khách hàng và mạng lưới. Nếu Quan Lộc mạnh nhưng Nô Bộc yếu, nên tự chủ chuyên môn và chọn cộng sự kỹ. Nếu Tài Bạch tốt nhưng Thiên Di yếu, nên giữ nguồn lực ổn định trước khi mở rộng.",
+    "love": "Tình cảm cần xem Phu Thê, Tử Tức, Phúc Đức và Mệnh. Phu Thê nói kiểu quan hệ thân mật; Tử Tức nói năng lực chăm sóc, trao đi và duyên con cái/dự án chung; Phúc Đức nói nền cảm xúc gia đình; Mệnh nói cách bạn bước vào quan hệ. Nếu Phu Thê có nhiều sát tinh, bài học thường là ranh giới, nhịp cam kết và cách đối thoại khi bất an.",
+    "inner": "Phát triển bản thân cần xem Mệnh, Tật Ách, Phúc Đức và Thiên Di. Mệnh là bản ngã vận hành; Tật Ách là điểm dễ căng thẳng hoặc khuất lấp; Phúc Đức là nền tâm lý sâu; Thiên Di là cách bạn học qua thế giới bên ngoài. Khi một cung bị đánh giá thấp, hãy xem đó là vùng cần phương pháp, không phải lời kết luận đóng."
+  },
+  "tuviPalaces": {
+    "Mệnh": "Cung Mệnh là trục nhân cách và khí chất nền. Cung này cho biết cách một người tự biểu hiện, phản ứng trước đời sống và kiểu năng lượng dễ được người khác nhận ra.",
+    "Phụ Mẫu": "Cung Phụ Mẫu nói về quan hệ với cha mẹ, người nâng đỡ bề trên, khuôn mẫu giáo dục và cảm giác được định hướng lúc đầu đời.",
+    "Phúc Đức": "Cung Phúc Đức nói về nền phúc, đời sống tinh thần, hậu thuẫn dòng họ, sức bền tâm lý và khả năng gặp may nhờ tích lũy vô hình.",
+    "Điền Trạch": "Cung Điền Trạch nói về nhà cửa, môi trường sống, tài sản cố định, cảm giác thuộc về và khả năng tạo nền tảng vật chất.",
+    "Quan Lộc": "Cung Quan Lộc nói về sự nghiệp, danh vị, trách nhiệm xã hội, phong cách làm việc và con đường tạo thành tựu.",
+    "Nô Bộc": "Cung Nô Bộc nói về bạn bè, cộng sự, nhân viên, khách hàng, mạng lưới xã hội và chất lượng người đồng hành.",
+    "Thiên Di": "Cung Thiên Di nói về môi trường bên ngoài, đi xa, cơ hội xã hội, cách người khác nhìn mình và vận khi bước ra khỏi vùng quen thuộc.",
+    "Tật Ách": "Cung Tật Ách nói về sức khỏe, áp lực, điểm yếu kín, thói quen dễ hao tổn và những bài học cần chăm sóc thân tâm.",
+    "Tài Bạch": "Cung Tài Bạch nói về tiền bạc, dòng thu nhập, cách kiếm tiền, cách giữ tiền và thái độ với giá trị vật chất.",
+    "Tử Tức": "Cung Tử Tức nói về con cái, hậu duệ, dự án sáng tạo, khả năng nuôi dưỡng và những gì mình để lại sau này.",
+    "Phu Thê": "Cung Phu Thê nói về hôn nhân, người đồng hành thân mật, kiểu hấp dẫn trong tình yêu và bài học khi gắn bó lâu dài.",
+    "Huynh Đệ": "Cung Huynh Đệ nói về anh chị em, bạn ngang hàng, đồng minh gần gũi và cách một người chia sẻ nguồn lực với người cùng vai."
+  },
+  "tuviAdviceLevels": {
+    "Tốt": "Nên chủ động tận dụng cung này: đặt mục tiêu rõ, nhận thêm trách nhiệm vừa sức và biến lợi thế thành kết quả cụ thể. Tránh chủ quan vì điểm tốt chỉ là lực nâng, không thay thế hành động đều đặn.",
+    "Bình thường": "Nên đi theo hướng ổn định: chọn một việc trọng tâm, cải thiện từng bước và theo dõi phản hồi trước khi mở rộng. Cung này không quá xấu, nhưng cần phương pháp để chuyển tiềm năng thành kết quả.",
+    "Xấu": "Nên ưu tiên phòng thủ và củng cố nền tảng: giảm quyết định vội, tránh đặt cược lớn, xin lời khuyên từ người có kinh nghiệm và xử lý từng vấn đề nhỏ trước khi đẩy mạnh."
+  },
+  "tuviPalaceAdvice": {
+    "Mệnh": "Hãy xây thói quen tự quan sát: ghi lại điểm mạnh, điểm dễ phản ứng quá mức và chọn một nguyên tắc sống rõ ràng. Khi Mệnh yếu, đừng cố chứng minh bản thân bằng tốc độ; hãy chứng minh bằng sự ổn định.",
+    "Phụ Mẫu": "Nên học cách giao tiếp với người lớn/bề trên bằng ranh giới rõ. Nếu cung này yếu, bớt kỳ vọng được hiểu ngay; hãy nói bằng nhu cầu cụ thể và giữ sự độc lập trong quyết định quan trọng.",
+    "Phúc Đức": "Nên bồi nền tinh thần bằng việc làm thiện, giữ nếp sống lành, kết nối gia đình vừa đủ và chăm sóc đời sống nội tâm. Khi cung này yếu, cần tránh bi quan kéo dài và nên có nơi để nghỉ tâm trí.",
+    "Điền Trạch": "Nên ưu tiên nơi ở gọn, tài sản rõ giấy tờ, kế hoạch tích lũy dài hạn. Nếu cung này yếu, tránh mua bán nóng, hùn hạp nhà đất thiếu minh bạch hoặc đổi chỗ ở liên tục khi chưa có nền tài chính.",
+    "Quan Lộc": "Nên chọn đường nghề có tiêu chuẩn rõ và đo được tiến bộ. Nếu cung này mạnh, hãy nhận vai trò dẫn dắt; nếu yếu, cần nâng kỹ năng lõi, xây hồ sơ năng lực và tránh nhảy việc vì cảm xúc nhất thời.",
+    "Nô Bộc": "Nên chọn bạn, cộng sự và khách hàng kỹ hơn chọn cơ hội. Nếu cung này yếu, tránh tin lời hứa miệng, nên có thỏa thuận rõ và giữ một nhóm nhỏ đáng tin thay vì mạng lưới rộng nhưng loãng.",
+    "Thiên Di": "Nên bước ra ngoài có chiến lược: học giao tiếp, xây hình ảnh cá nhân và chọn môi trường phù hợp. Nếu cung này yếu, đừng mở rộng quá nhanh; hãy thử nhỏ trước khi đi xa hoặc đổi môi trường lớn.",
+    "Tật Ách": "Nên chăm sức khỏe theo lịch, ngủ đủ, giảm căng thẳng tích tụ và kiểm tra những dấu hiệu lặp lại. Nếu cung này yếu, cần tránh làm việc quá sức, dồn cảm xúc và xem nhẹ tín hiệu của cơ thể.",
+    "Tài Bạch": "Nên lập ngân sách, tách tiền dự phòng, ghi lại dòng thu chi và ưu tiên nguồn thu bền. Nếu cung này yếu, tránh đầu tư theo cảm xúc, vay mượn thiếu kế hoạch hoặc tiêu tiền để xoa dịu tâm trạng.",
+    "Tử Tức": "Nên nuôi dưỡng khả năng chăm sóc, sáng tạo và kiên nhẫn với thứ cần thời gian lớn lên. Nếu cung này yếu, đừng ép kết quả sớm; hãy chú ý chất lượng kết nối và trách nhiệm với điều mình tạo ra.",
+    "Phu Thê": "Nên học đối thoại thẳng nhưng mềm, đặt ranh giới và quan sát cách hai bên xử lý xung đột. Nếu cung này yếu, tránh cam kết vì cô đơn, tránh kiểm soát và nên chọn người có nhịp sống tương thích.",
+    "Huynh Đệ": "Nên rõ ràng khi chia sẻ tiền bạc, trách nhiệm hoặc kỳ vọng với anh chị em/bạn ngang hàng. Nếu cung này yếu, giữ khoảng cách lành mạnh, tránh so sánh và không ôm việc thay người khác quá lâu."
+  },
+  "tuviStars": {
+    "Tử Vi": "khí lãnh đạo, tự trọng, khả năng điều phối và nhu cầu làm chủ tình huống",
+    "Thiên Phủ": "khả năng tích lũy, bảo hộ, quản lý nguồn lực và tạo cảm giác vững",
+    "Thái Dương": "sự rõ ràng, danh tiếng, tinh thần chủ động và mong muốn cống hiến",
+    "Thái Âm": "chiều sâu cảm xúc, trực giác, tài tích lũy và năng lực chăm sóc",
+    "Vũ Khúc": "kỷ luật tài chính, quyết đoán, thực tế và khả năng chịu áp lực",
+    "Thiên Tướng": "khả năng nâng đỡ, giữ công bằng, ngoại giao và bảo vệ người khác",
+    "Thiên Lương": "đức độ, nguyên tắc, năng lực chữa lành và xu hướng làm điều đúng",
+    "Thiên Cơ": "mưu trí, linh hoạt, thích học hỏi và giỏi xoay chuyển kế hoạch",
+    "Thiên Đồng": "tính mềm, duyên hưởng thụ, lòng trẻ trung và nhu cầu bình an",
+    "Liêm Trinh": "sự sắc bén, nguyên tắc, hấp lực cá nhân và bài học về ranh giới",
+    "Tham Lang": "ham muốn trải nghiệm, giao tế, sức hút và khả năng mở rộng",
+    "Cự Môn": "ngôn ngữ mạnh, tranh luận, phân tích và bài học về lời nói",
+    "Thất Sát": "khí quyết liệt, độc lập, dám cắt bỏ và chịu áp lực chuyển hóa",
+    "Phá Quân": "khả năng phá cũ lập mới, biến động mạnh và nhu cầu tự do",
+    "Văn Xương": "học thuật, chữ nghĩa, khả năng trình bày và tư duy có cấu trúc",
+    "Văn Khúc": "nghệ thuật, cảm thụ, ngôn từ mềm và sức hút tinh tế",
+    "Tả Phụ": "quý nhân, sự hỗ trợ thực tế và năng lực làm việc cùng người khác",
+    "Hữu Bật": "sự trợ lực, quan hệ nâng đỡ và khả năng nhận giúp đỡ đúng lúc",
+    "Thiên Khôi": "cơ hội sáng, người dẫn đường và may mắn nhờ năng lực",
+    "Thiên Việt": "sự nâng đỡ âm thầm, duyên gặp người tốt và năng lực hóa giải",
+    "Lộc Tồn": "tài lộc, tích lũy, sự ổn định vật chất và khả năng giữ nguồn lực",
+    "Hóa Lộc": "dòng thuận lợi, tài khí, sự hấp dẫn và khả năng nhận cơ hội",
+    "Hóa Quyền": "quyền lực, tiếng nói, năng lực quyết định và uy tín",
+    "Hóa Khoa": "danh dự, học vấn, sự sáng danh và khả năng giải nguy bằng tri thức",
+    "Hồng Loan": "duyên tình cảm, sức hút mềm và những kết nối có cảm xúc",
+    "Thiên Hỷ": "niềm vui, tin tốt, duyên lành và khả năng làm nhẹ bầu khí",
+    "Kình Dương": "sức ép trực diện, va chạm, quyết liệt và bài học tiết chế",
+    "Đà La": "trì kéo, chậm trễ, vướng mắc và bài học kiên nhẫn",
+    "Hỏa Tinh": "nóng, nhanh, bộc phát và bài học kiểm soát phản ứng",
+    "Linh Tinh": "căng thẳng thần kinh, bất ngờ và bài học giữ nhịp ổn định",
+    "Địa Không": "khoảng rỗng, đứt đoạn, buông bỏ và bài học không bám chấp",
+    "Địa Kiếp": "biến cố, hao tổn, thử thách mạnh và nhu cầu phòng bị",
+    "Hóa Kỵ": "vướng mắc, hiểu lầm, nợ cảm xúc và bài học minh bạch",
+    "Tang Môn": "nỗi buồn, suy tư, trách nhiệm cảm xúc và bài học hồi phục"
+  },
+  "hours": {
+    "ty": "Giờ Tý tăng trực giác, khả năng xoay xở và duyên với thông tin ẩn.",
+    "suu": "Giờ Sửu tăng sức bền, khả năng tích lũy và sự thận trọng.",
+    "dan": "Giờ Dần tăng khí khai phá, bản lĩnh và xu hướng hành động sớm.",
+    "mao": "Giờ Mão tăng sự tinh tế, ngoại giao và năng lực cảm thụ cái đẹp.",
+    "thin": "Giờ Thìn tăng tham vọng, tầm nhìn và duyên với vai trò dẫn dắt.",
+    "ty2": "Giờ Tỵ tăng chiều sâu quan sát, chiến lược và năng lực tái tạo.",
+    "ngo": "Giờ Ngọ tăng sức biểu đạt, danh khí và nhu cầu được công nhận.",
+    "mui": "Giờ Mùi tăng lòng chăm sóc, tính nghệ thuật và khả năng kết nối cộng đồng.",
+    "than": "Giờ Thân tăng sự nhanh trí, thực dụng và duyên với kỹ thuật hoặc thương mại.",
+    "dau": "Giờ Dậu tăng gu thẩm mỹ, tính chuẩn xác và khả năng hoàn thiện.",
+    "tuat": "Giờ Tuất tăng lòng trung thành, nguyên tắc và năng lực bảo vệ điều đúng.",
+    "hoi": "Giờ Hợi tăng lòng bao dung, trực giác và xu hướng suy tư sâu."
+  }
+}
